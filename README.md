@@ -10,7 +10,7 @@ This end-to-end business intelligence solution extracts, structures, and visuali
 The primary business objective was to build a localized, dynamic monitoring tool for C-suite executives to isolate regional underperformance instantly, track consumer eating preferences, and optimize weekend delivery resource allocation.
 
 ### 🖼️ Core Business Dashboard Architecture
-![Swiggy Executive Dashboard](swiggy_dashboard.png)
+![Swiggy Executive Dashboard](swiggy_dashboard.jpg)
 
 ---
 
