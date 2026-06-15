@@ -1,5 +1,5 @@
 # Data Analytics Project: Swiggy Sales Performance Optimization
-**Analyst:** [Md. Tarakuzzaman Faysal]  
+**Analyst:** Md. Tarakuzzaman Faysal  
 **Objective:** Regional Revenue and Operational Performance Mapping  
 
 ---
