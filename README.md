@@ -18,7 +18,7 @@ The primary business objective was to build a localized, dynamic monitoring tool
 
 ### 1. Macro Revenue Drivers
 * **Platform Dominance:** Gross platform volume finalized at **₹53,012,506** across **197,430** completed orders, reflecting an institutional Average Order Value (AOV) of **₹268.51**.
-* **Dietary Market Share:** Non-Vegetarian items command a staggering **64%** of gross sales volume, establishing clear inventory and marketing prioritization pathways over Vegetarian options (36%).
+* **Dietary Market Share:** Vegetarian items command a staggering **64%** of gross sales volume, establishing clear inventory and marketing prioritization pathways over Non-Vegetarian options (36%).
 
 ### 2. Geographical Value Concentration
 * **The Urban Anchor:** Bengaluru acts as the primary revenue generator for the platform, driving **₹5,456,798** in sales—effectively doubling the isolated revenue streams of other Tier-1 markets like New Delhi (₹2,829,181) and Mumbai (₹3,015,573). 
